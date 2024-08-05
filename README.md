@@ -1,3 +1,3 @@
-# HBnB Evolution proje
+# HBnB Evolution project
 
 
